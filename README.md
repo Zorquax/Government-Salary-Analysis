@@ -7,6 +7,8 @@ This project aims to predict government salaries based on various attributes giv
 The dataset can be accessed from the official Government website:
 [Gov Analysis](https://data.nj.gov/Government-Finance/YourMoney-Authority-Payroll/kiki-imre/about_data)
 
+But there is a local copy available in this repository.
+
 ## Setup Instructions
 
 ### 1. Creating the Virtual Environment
