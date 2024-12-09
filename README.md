@@ -1,6 +1,6 @@
-# Governemnt Salary Prediction
+# Government Salary Prediction
 
-This project aims to predict government salaries based on various attributes given.
+This project aims to predict government employee salaries based on various attributes given.
 
 ## Dataset
 
